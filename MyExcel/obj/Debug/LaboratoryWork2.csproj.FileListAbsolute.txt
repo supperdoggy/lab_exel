@@ -1,0 +1,14 @@
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\bin\Debug\LaboratoryWork2.exe.config
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\bin\Debug\LaboratoryWork2.exe
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\bin\Debug\LaboratoryWork2.pdb
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.GridForm.resources
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.Properties.Resources.resources
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.csproj.GenerateResource.cache
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.exe
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.pdb
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.GridForm.en.resources
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\bin\Debug\en\LaboratoryWork2.resources.dll
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\en\LaboratoryWork2.resources.dll
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\bin\Debug\MathParser.org-mXparser.dll
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.csproj.CopyComplete
+D:\Studying\2_Course\OOP\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeEditing/Localization/MoveToResource/LastResourceFile/@EntryValue">AF3A0679-88E1-4002-911C-11FC7D39FEB9/f:DataGrid.resx</s:String></wpf:ResourceDictionary>
